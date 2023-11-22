@@ -19,4 +19,5 @@
 
     yarn add bootstrap react-bootstrap
 
+# to see all the source code used go to "src/App.js".
     
